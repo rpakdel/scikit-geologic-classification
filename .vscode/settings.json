@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "C:\\Users\\PHAM\\AppData\\Local\\conda\\conda\\envs\\tf_gpu\\python.exe"
+}

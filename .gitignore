@@ -50,4 +50,3 @@ addons/
 
 .ipynb_checkpoints*
 __pycache__
-.vscode
